@@ -1,0 +1,30 @@
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\bin\Debug\OffLineChart.exe
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\bin\Debug\OffLineChart.pdb
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.csprojResolveAssemblyReference.cache
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.LoginForm.resources
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.InBox.resources
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.Message.resources
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.MessageFrom.resources
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.MessageTo.resources
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.OtherUsers.resources
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.Properties.Resources.resources
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.Register.resources
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.UserProfile.resources
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.csproj.GenerateResource.Cache
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.exe
+C:\Users\Student New Intake\documents\visual studio 2010\Projects\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.pdb
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.exe
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.pdb
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\bin\Debug\OffLineChart.exe
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\bin\Debug\OffLineChart.pdb
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.csprojResolveAssemblyReference.cache
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.LoginForm.resources
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.InBox.resources
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.Message.resources
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.MessageFrom.resources
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.MessageTo.resources
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.OtherUsers.resources
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.Properties.Resources.resources
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.Register.resources
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.UserProfile.resources
+C:\Users\New Intake.DESKTOP-NPF72A6\Documents\OffLineChart\OffLineChart\obj\x86\Debug\OffLineChart.csproj.GenerateResource.Cache
