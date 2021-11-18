@@ -96,7 +96,13 @@ namespace OffLineChart
             writer.WriteLine("");
 
         }
-
+        
+        public void PrintName(){
+            string name = "";
+            if(name == "Jospin"){
+                name = "Jospin " + " " + "Hassan";
+            }
+        }
 
         public void readData()
         {
