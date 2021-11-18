@@ -15,7 +15,9 @@ namespace OffLineChart
         {
             InitializeComponent();
         }
-
-		
+	
+	public void Name(){
+		// Can you add your method here!!
 	}
+	
 }
